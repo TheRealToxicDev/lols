@@ -1,1 +1,1 @@
-# lols
+# Ninja Bot Docs

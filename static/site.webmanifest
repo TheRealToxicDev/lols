@@ -1,0 +1,27 @@
+{
+  "name": "docs.ninjabot.site",
+  "short_name": "Ninja Bot Docs",
+  "description": "All-in-one Moderation Bot with Extras.",
+  "homepage_url": "https://docs.ninjabot.site",
+  "start_url": "/",
+  "background_color": "#496D8F",
+  "theme_color": "#6496C4",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/img/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
